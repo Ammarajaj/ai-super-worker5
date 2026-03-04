@@ -1,0 +1,9 @@
+name = "ai-super-worker5" # اسم جديد لتجنب أي تداخل
+main = "src/index.js"
+compatibility_date = "2024-05-01"
+
+[vars]
+SECRET_KEY = "Ammarajajhvtas192005*" # اختر كلمة سر قوية
+
+[ai]
+binding = "AI" # <-- هذا هو الربط المباشر
